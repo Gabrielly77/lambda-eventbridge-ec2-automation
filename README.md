@@ -70,13 +70,13 @@ Automate the termination of EC2 instances in AWS using a Python-based Lambda fun
 
 **Services Used**
 
--*AWS Lambda*
+- *AWS Lambda*
 
--*IAM*
+- *IAM*
 
--*Amazon EventBridge*
+- *Amazon EventBridge*
 
--*EC2*
+- *EC2*
 
 **Steps**
 
