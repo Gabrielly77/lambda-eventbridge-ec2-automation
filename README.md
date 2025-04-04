@@ -4,6 +4,11 @@
 
 Este projeto foi realizado como parte de um laboratório prático na Escola da Nuvem, dentro da trilha de preparação para a certificação AWS Developer, com o objetivo de automatizar o encerramento de instâncias EC2 utilizando AWS Lambda, IAM e EventBridge.
 
+**Prints do Lab**
+![image](https://github.com/user-attachments/assets/bbc3a08b-998b-4035-9ff9-060e6f251547)
+![image](https://github.com/user-attachments/assets/b1c04fa7-3626-4ac9-9728-6bf97a88d134)
+![image](https://github.com/user-attachments/assets/78a89ed7-0ac1-446f-8b9c-d7c8743029d7)
+
 **Objetivo do Lab**
 
 Automatizar o encerramento de instâncias EC2 na AWS por meio de uma função Lambda escrita em Python, acionada por um evento personalizado do Amazon EventBridge.
@@ -107,12 +112,6 @@ Automate the termination of EC2 instances in AWS using a Python-based Lambda fun
   ]
 }
 
-**Prints do Lab**
-![image](https://github.com/user-attachments/assets/bbc3a08b-998b-4035-9ff9-060e6f251547)
-![image](https://github.com/user-attachments/assets/b1c04fa7-3626-4ac9-9728-6bf97a88d134)
-![image](https://github.com/user-attachments/assets/78a89ed7-0ac1-446f-8b9c-d7c8743029d7)
-
-
 **Learnings:**
 - *How to apply the principle of least privilege with IAM policies.*
 
@@ -121,6 +120,11 @@ Automate the termination of EC2 instances in AWS using a Python-based Lambda fun
 - *Writing and deploying a Lambda function with Python.*
 
 - *Automating administrative tasks with security and efficiency.*
+
+
+
+
+
 
 
 
