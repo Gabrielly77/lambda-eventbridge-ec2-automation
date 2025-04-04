@@ -10,13 +10,13 @@ Automatizar o encerramento de instâncias EC2 na AWS por meio de uma função La
 
 **Serviços Utilizados**
 
-*- AWS Lambda*
+- *AWS Lambda*
 
-*- IAM*
+- *IAM*
 
-*- Amazon EventBridge*
+- *Amazon EventBridge*
 
-*- EC2*
+- *EC2*
 
 
 **Etapas**
@@ -50,13 +50,13 @@ Automatizar o encerramento de instâncias EC2 na AWS por meio de uma função La
 
 **Aprendizados:**
 
-*- Como aplicar o princípio do menor privilégio com políticas IAM.*
+- *Como aplicar o princípio do menor privilégio com políticas IAM.*
 
-*- Integração entre Lambda, EventBridge e EC2.*
+- *Integração entre Lambda, EventBridge e EC2.*
 
-*- Escrita e deploy de função Lambda com Python.*
+- *Escrita e deploy de função Lambda com Python.*
 
-*- Automação de tarefas administrativas com segurança e eficiência.*
+- *Automação de tarefas administrativas com segurança e eficiência.*
 
 **In English**
 
@@ -114,13 +114,13 @@ Automate the termination of EC2 instances in AWS using a Python-based Lambda fun
 
 
 **Learnings:**
-*- How to apply the principle of least privilege with IAM policies.*
+- *How to apply the principle of least privilege with IAM policies.*
 
-*- Integration between Lambda, EventBridge, and EC2.*
+- *Integration between Lambda, EventBridge, and EC2.*
 
-*- Writing and deploying a Lambda function with Python.*
+- *Writing and deploying a Lambda function with Python.*
 
-*- Automating administrative tasks with security and efficiency.*
+- *Automating administrative tasks with security and efficiency.*
 
 
 
